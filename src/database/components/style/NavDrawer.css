@@ -1,0 +1,10 @@
+.root {
+  display: flex;
+}
+
+.drawerHeader {
+  margin-top: 5em;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

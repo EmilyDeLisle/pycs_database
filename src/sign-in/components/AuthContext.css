@@ -1,0 +1,12 @@
+.auth-context-progress {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.auth-context-logo {
+  margin-bottom: 2em;
+  width: 20em;
+}

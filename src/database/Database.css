@@ -1,0 +1,8 @@
+.database-root {
+  display: flex;
+}
+
+.database-content {
+  flex-grow: 1;
+  margin-top: 4.5em;
+}

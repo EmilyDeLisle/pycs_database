@@ -1,0 +1,55 @@
+.participant-detail-container {
+  width: 100%;
+}
+
+.participant-detail-contents {
+  width: 100%;
+  padding: 2em;
+}
+
+.participant-detail-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.participant-detail-header-text {
+  max-width: 60%;
+}
+
+.participant-detail-controls {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.participant-detail-form-contents {
+  margin-top: 2em;
+}
+
+.participant-detail-buttons-indicator {
+  display: flex;
+  flex-direction: column;
+}
+
+.participant-detail-status {
+  margin-top: 0.5em;
+  align-self: flex-end;
+}
+
+.participant-detail-nav-buttons {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 1em 1em 0;
+}
+
+.participant-notes-ap-addButton {
+  margin-top: 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.participant-ap-text {
+  white-space: pre-line;
+  padding: 1em;
+}
