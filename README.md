@@ -1,10 +1,8 @@
 # pycs_database_app
 
-This is the repository for the database application for Pathfinder Youth Centre society. It contains the database GUI and the web intake form. The user manual for the database GUI is in the docs section of this repo. 
+This is the repository for the database application for Pathfinder Youth Centre society. It contains the database GUI and the [web intake form](https://pathfinderyouthsociety.web.app/). The user manual for the database GUI is in the docs section of this repo. 
 
 The hosting and authentication for this project are provided by Firebase and data is stored in a Cloud Firestore database.
-
-The web form is hosted at http://pathfinderyouthsociety.web.app and the GUI is hosted at http://pathfinderyouthsociety.web.app/sign-in.
 
 For demonstrations and images of the application in action, please visit my portfolio at [emilydelisle.ca](https://emilydelisle.ca).
 
